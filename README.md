@@ -50,4 +50,4 @@ This project is licensed under the MIT License.
 
 ## 🫂 Acknowledgments
 
-Special thanks to [Baraa Al Khatib](https://www.linkedin.com/in/baraa-khatib-salkini) for the [YouTube tutorial](https://www.youtube.com/watch?v=VIDEO_ID) that guided me through this project.
+Special thanks to [Baraa Al Khatib](https://www.linkedin.com/in/baraa-khatib-salkini) for the [YouTube tutorial](https://youtu.be/9GVqKuTVANE) that guided me through this project.
