@@ -1,3 +1,5 @@
+-- Used SQL Developer's IMPORT DATA feature to ingest raw data from csv files
+
 SELECT * FROM bronze.cust_info;
 SELECT * FROM bronze.prd_info;
 SELECT * FROM bronze.sales_details;
